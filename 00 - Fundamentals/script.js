@@ -28,12 +28,11 @@ console.log(country);
 console.log(continent);
 console.log(population);
 
-
 // THE 7 PRIMITIVE DATA TYPES:
 
 // 1. Number: Floating point numbers, used for decimals and integers
 let age = 24;
-console.log( typeof age);
+console.log(typeof age);
 
 // 2. String: Sequence of Characters, used for text
 let secondName = 'Haris';
@@ -44,7 +43,9 @@ let javascriptIsFun = true;
 console.log(javascriptIsFun);
 
 // 4. Undefined: Value taken by a variable that is not yet defined ('empty value')
+let year;
+console.log(year);
+console.log(typeof year);
 // 5. Null: Also means ('empty value')
 // 6. Symbol (ES2015): Value that is unique and cannot be changed.
 // 7. BigInt (ES2022): Larger integers than the 'Number' type can hold.
-
