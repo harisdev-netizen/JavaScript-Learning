@@ -59,3 +59,9 @@ console.log(typeof year);
   LET, CONST, VAR
 ---------------- */
 
+let age = 24;
+age = 25;
+
+// const is assigned to variables whoch are not going to change at any point in the future.
+const birthYear = 2001;
+birthYear = 2000;
