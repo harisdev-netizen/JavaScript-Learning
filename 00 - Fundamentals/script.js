@@ -1,3 +1,5 @@
+/*
+
 // Variable is basically a box, in which we can store a value, so we give that box a name, and then later in the code we can reference that variable name over and over again.
 
 // In below examples 'firstName', 'x', 'y' and 'z' are called variables, and here we have named the variables a 'firstName', 'x', 'y', 'z'.
@@ -49,3 +51,11 @@ console.log(typeof year);
 // 5. Null: Also means ('empty value')
 // 6. Symbol (ES2015): Value that is unique and cannot be changed.
 // 7. BigInt (ES2022): Larger integers than the 'Number' type can hold.
+
+*/
+
+
+/* ---------------
+  LET, CONST, VAR
+---------------- */
+
