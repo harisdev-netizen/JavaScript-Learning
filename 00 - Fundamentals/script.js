@@ -58,10 +58,26 @@ console.log(typeof year);
 /* ---------------
   LET, CONST, VAR
 ---------------- */
-
+/*
 let age = 24;
 age = 25;
 
 // const is assigned to variables whoch are not going to change at any point in the future.
 const birthYear = 2001;
-birthYear = 2000;
+// birthYear = 2000;
+
+var job = "Programmer";
+job = "Web Developer";
+console.log(job);
+*/
+
+/* -------------------
+  Operator Precedence
+-------------------- */
+
+// SUBTRACTION
+
+const now = 2030;
+const ageHaris = now - 2001;
+const ageMarie = now - 2002;
+console.log(ageHaris, ageMarie);
