@@ -75,9 +75,22 @@ console.log(job);
   Operator Precedence
 -------------------- */
 
-// SUBTRACTION
-
+// Math Operators
 const now = 2030;
 const ageHaris = now - 2001;
 const ageMarie = now - 2002;
 console.log(ageHaris, ageMarie);
+
+const firstName = 'Haris';
+const lastName = 'Muhammad';
+console.log(firstName + " " + lastName);
+
+// Assignment Operators
+let x = 10 + 8;
+x += 10;  // x = x + 10
+x *= 3;   // x = x * 3
+x++;      // x = x + 1
+x--;      // x = x -1;
+console.log(x);
+
+// Comparison Operators
