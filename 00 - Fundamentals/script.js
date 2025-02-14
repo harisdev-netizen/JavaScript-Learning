@@ -90,7 +90,8 @@ let x = 10 + 8;
 x += 10;  // x = x + 10
 x *= 3;   // x = x * 3
 x++;      // x = x + 1
-x--;      // x = x -1;
+x--;      // x = x - 1;
+x--;      // x = x - 1;
 console.log(x);
 
 // Comparison Operators
